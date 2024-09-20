@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 💬 Ask me about System Design, Product Development, Backend Development
+- 🔭 I’m currently working on backend developments, mostly using Node.js and Django. Also, automating deployments, and maintaining AWS services
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/kbishall)
+- ⚡ Fun fact: Refactoring skills is superpower 😅. Deleting hundreds of lines, and still the product is fully functioning gives so much satisfaction.
+- 😄 Pronouns: He/Him
+
 <!--
 **K-Bishall/K-Bishall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
